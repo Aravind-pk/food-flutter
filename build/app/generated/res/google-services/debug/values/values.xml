@@ -7,4 +7,5 @@
     <string name="google_app_id" translatable="false">1:439234781960:android:add6664e60ba6ecd</string>
     <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDlpKyaZHhF3I2kH_NLoGQuln4KfclIC0E</string>
     <string name="google_storage_bucket" translatable="false">revitsone-demo.appspot.com</string>
+    <string name="project_id" translatable="false">revitsone-demo</string>
 </resources>

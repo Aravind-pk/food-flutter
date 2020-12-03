@@ -1,8 +1,5 @@
-yawning
-lookingaround
-droppinghead
-eyeclosing
-normal
-usingelectronics
-talkingphone
-eating
+daisy
+dandelion
+roses
+sunflowers
+tulips
